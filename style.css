@@ -1,0 +1,42 @@
+body{
+	background-color: #eee;
+}
+
+header{
+	width: 950px;
+	margin-bottom: 20px;
+	text-align: center;
+	background-color: #5af158;
+
+}
+
+.container{
+	width: 950px;
+	margin-left: 190px;
+	background-color: #eee;
+}
+
+.content{
+	width: 600px;
+	margin: 0px 20px 10px 0;
+	background-color: #259b24;
+}
+
+.sidebar{
+	background-color: #b2ff59;
+	width: 330px;
+	float: right;
+}
+.sidebar .popular{
+	padding: 20px 0 5px 0;
+	background-color: #8bc34a;
+	margin: 0px 0 2px;
+}
+.sidebar .popular p{
+	font-size: 12px;
+}
+footer{
+	text-align: center;
+	width: 950px;
+	background-color: #5af158;
+}
